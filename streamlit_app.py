@@ -42,7 +42,7 @@ try:
         streamlit.dataframe(back_from_function)
        
 
-import snowflake.connector
+# import snowflake.connector
 
 streamlit.header("The fruit load list contains:")
 #snowflake-related functions
